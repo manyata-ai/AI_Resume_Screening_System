@@ -1,0 +1,30 @@
+Job Title: Data Science Intern
+
+We are looking for a Data Science Intern to join our analytics team. The ideal
+candidate should have a strong foundation in Python programming, statistics,
+and machine learning concepts.
+
+Required Skills:
+- Python, Pandas, NumPy, Scikit-learn
+- Machine Learning algorithms (Regression, Classification, Random Forest)
+- Data Preprocessing and Exploratory Data Analysis (EDA)
+- Data Visualization using Matplotlib / Seaborn
+- SQL for querying databases
+- Good understanding of statistics and probability
+
+Preferred Skills:
+- Experience with Deep Learning frameworks (TensorFlow / PyTorch)
+- Knowledge of Natural Language Processing (NLP)
+- Experience building and deploying models using Streamlit or Flask
+- Familiarity with Computer Vision (OpenCV, YOLO)
+- Version control using Git and GitHub
+
+Education:
+- Bachelor's degree (or final year student) in Computer Science, IT,
+  Data Science, or a related field
+
+Responsibilities:
+- Clean, preprocess, and analyze large datasets
+- Build and evaluate machine learning models
+- Communicate insights through visualizations and reports
+- Collaborate with the data team on real-world business problems

@@ -1,0 +1,24 @@
+Name: Ananya Sharma
+Email: ananya.sharma@example.com
+Phone: 9876543210
+
+Education:
+B.Tech in Computer Science, Pune University, 2026 (Final Year)
+
+Skills:
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SQL, Machine Learning,
+Data Preprocessing, EDA, Statistics, Git, GitHub
+
+Experience:
+Data Science Intern - CodeTech Solutions (3 months)
+- Built regression and classification models using Scikit-learn
+- Performed data cleaning and exploratory data analysis on sales datasets
+- Created dashboards using Matplotlib and Seaborn for business insights
+- Wrote SQL queries to extract data from relational databases
+
+Projects:
+- Student Performance Prediction using Random Forest and Linear Regression
+- Customer Churn Prediction using Logistic Regression
+
+Certifications:
+- Data Science with Python - Coursera

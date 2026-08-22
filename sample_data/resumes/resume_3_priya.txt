@@ -1,0 +1,24 @@
+Name: Priya Nair
+Email: priya.nair@example.com
+Phone: 9988776655
+
+Education:
+B.Sc in Computer Science, Bangalore University, 2026 (Final Year)
+
+Skills:
+Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, NLP, OpenCV,
+Scikit-learn, Pandas, NumPy, Git, Streamlit
+
+Experience:
+AI/ML Intern - Codomax Digital Solutions (2 months)
+- Built an Iris flower classification model using Scikit-learn
+- Developed a Streamlit web app for object detection using YOLOv8
+- Worked on NLP based text classification project using NLTK
+
+Projects:
+- AI Resume Screening System using TF-IDF and Cosine Similarity
+- Object Detection Dashboard using YOLOv8 and Streamlit
+
+Certifications:
+- Deep Learning Specialization - Coursera
+- NLP with Python - Udemy

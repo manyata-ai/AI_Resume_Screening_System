@@ -1,0 +1,22 @@
+Name: Karan Mehta
+Email: karan.mehta@example.com
+Phone: 9871234567
+
+Education:
+MBA in Marketing, Delhi University, 2024
+
+Skills:
+Digital Marketing, SEO, Content Writing, Social Media Management, Excel,
+Google Analytics
+
+Experience:
+Marketing Executive - BrightAds Media (1 year)
+- Managed social media campaigns for clients
+- Performed keyword research and SEO optimization
+- Created content calendars and marketing reports
+
+Projects:
+- Brand Awareness Campaign for a Retail Client
+
+Certifications:
+- Google Digital Marketing Certification

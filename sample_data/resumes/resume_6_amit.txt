@@ -1,0 +1,22 @@
+Name: Amit Verma
+Email: amit.verma@example.com
+Phone: 9765432109
+
+Education:
+Diploma in Mechanical Engineering, Nagpur, 2023
+
+Skills:
+AutoCAD, SolidWorks, Manufacturing Processes, Quality Control, MS Office
+
+Experience:
+Junior Design Engineer - Precision Tools Ltd (1.5 years)
+- Designed mechanical components using AutoCAD and SolidWorks
+- Conducted quality checks on manufactured parts
+- Prepared technical drawings for production
+
+Projects:
+- Design of a Low-Cost Water Purifier
+- CAD Model of an Automated Conveyor Belt
+
+Certifications:
+- AutoCAD Professional Certification

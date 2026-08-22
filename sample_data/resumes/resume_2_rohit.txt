@@ -1,0 +1,22 @@
+Name: Rohit Deshmukh
+Email: rohit.deshmukh@example.com
+Phone: 9123456780
+
+Education:
+B.E in Information Technology, Mumbai University, 2025
+
+Skills:
+Java, Spring Boot, MySQL, HTML, CSS, JavaScript, REST API
+
+Experience:
+Backend Developer Intern - WebNest Pvt Ltd (6 months)
+- Developed REST APIs using Spring Boot
+- Designed database schema in MySQL
+- Worked on user authentication modules
+
+Projects:
+- E-commerce website using Java and MySQL
+- Library Management System
+
+Certifications:
+- Java Full Stack Development - Udemy

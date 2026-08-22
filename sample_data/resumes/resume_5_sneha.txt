@@ -1,0 +1,24 @@
+Name: Sneha Kulkarni
+Email: sneha.kulkarni@example.com
+Phone: 9090909090
+
+Education:
+B.Tech in Artificial Intelligence and Data Science, Pune University, 2026 (Final Year)
+
+Skills:
+Python, Pandas, NumPy, Scikit-learn, Statistics, Probability, SQL, Power BI,
+Data Visualization, Machine Learning, Random Forest, Regression, Classification
+
+Experience:
+Data Science Intern - SQROCK IT Solution (1 month, ongoing)
+- Working on data preprocessing and feature engineering for client datasets
+- Building predictive models using Random Forest and Linear Regression
+- Creating Power BI dashboards for reporting
+
+Projects:
+- Pune Vehicle Towing Risk Predictor using Random Forest and SHAP
+- Expense Tracker Application using Python
+
+Certifications:
+- Python for Data Science - NPTEL
+- Machine Learning A-Z - Udemy
