@@ -231,6 +231,31 @@ CUSTOM_CSS = """
         background: #1e293b !important;
         border: 1px dashed #475569 !important;
     }
+    section[data-testid="stSidebar"] [data-testid="stFileUploaderFile"],
+    section[data-testid="stSidebar"] [data-testid="stFileUploaderFileName"],
+    section[data-testid="stSidebar"] ul[data-testid="stFileUploaderFileList"] li {
+        background: #1e293b !important;
+        color: #f8fafc !important;
+    }
+    section[data-testid="stSidebar"] [data-testid="stFileUploaderFile"] * {
+        color: #f8fafc !important;
+    }
+    section[data-testid="stSidebar"] [data-testid*="stFileUploader"] {
+        color: #f8fafc !important;
+    }
+    section[data-testid="stSidebar"] [data-testid*="stFileUploader"] * {
+        color: #f8fafc !important;
+        fill: #f8fafc !important;
+    }
+    section[data-testid="stSidebar"] [data-testid*="stFileUploader"] div {
+        background-color: #1e293b !important;
+    }
+    section[data-testid="stSidebar"] [data-testid*="stFileUploader"] [data-testid="stFileUploaderDropzone"] {
+        background-color: #1e293b !important;
+    }
+    section[data-testid="stSidebar"] small {
+        color: #94a3b8 !important;
+    }
     section[data-testid="stSidebar"] hr {
         border-color: #334155 !important;
     }
